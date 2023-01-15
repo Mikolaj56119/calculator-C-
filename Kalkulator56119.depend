@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673624703 source:c:\users\user\desktop\c++\kalkulator56119\main.cpp
+	<iostream>
+	<cmath>
+	<bitset>
+	<string>
+
